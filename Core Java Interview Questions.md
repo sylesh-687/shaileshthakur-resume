@@ -30,3 +30,17 @@
 #### Q6: What is JIT compiler ?
       A: JIT compiler is part of JVM which increases the speed of java program.
 ---
+
+
+#### Q7: Which part of JVM will allocate memory for java program?
+      A: Class Loader Subsystem.
+---
+
+
+#### Q8: Which algo is used by Garbage Collector to remove all unused variables and objects from memory?
+      A: Mark and Sweep.
+---
+
+#### Q9: How can u call Garbage Collector?
+      A: GC is automatically invoked when the program is being run. It is also be called by calling gc() method of Runtime Class or System Class in java.
+---
