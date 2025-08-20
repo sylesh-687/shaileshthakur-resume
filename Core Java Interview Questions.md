@@ -26,3 +26,7 @@
          import statement makes JVM to go to standard Library, execute the code there and substite the result to the program. Here no code is copied and hence no waste of memory and processors time.
          import is efficient than include.
 ---
+
+#### Q6: What is JIT compiler ?
+      A: JIT compiler is part of JVM which increases the speed of java program.
+---
