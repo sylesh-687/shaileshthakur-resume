@@ -44,3 +44,7 @@
 #### Q9: How can u call Garbage Collector?
       A: GC is automatically invoked when the program is being run. It is also be called by calling gc() method of Runtime Class or System Class in java.
 ---
+
+#### 10: What is a collection?
+      A: Collections represents a group of elements. Ex: Arrarys and java.util Classes ( Stack , LinkedList , Vector etc ) 
+---
