@@ -71,3 +71,7 @@
          System.err - displays error messages.
 ---
 
+#### 15: On which memory , arrays are created in java?
+      A: Arrays are created on Dynamic memory by JVM. There is no question of static memory in java. Every thing is created in Dynamic memory only
+---
+
