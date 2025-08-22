@@ -53,3 +53,15 @@
       A: goto statements leads to confusion for programmer. Especially in large programs if several goto programs are there programmer would be perplexed while understanding the flow from where to where          control is jumping
 ---
 
+#### 12: What is difference b/w ``` return ``` and ``` System.exit(0) ```?
+      A: return keyword is used inside method to come out of it. System.exit(0) is used in any method to come out of the program.
+         While we call exit() method of System class we either pass 0 or 1. Both will terminate the program but 0 and 1 indicates the reason for termination.
+         exit(0) - Normal termination 
+         exit(1) - Termination with some error
+---
+
+#### 13: What is difference b/w ``` System.exit(0)  ``` and ``` System.exit(1) ```?
+      A: exit(0) - Terminates the program normally
+         exit(1) - Terminates the program because of some error encoutered in the program.
+---
+
