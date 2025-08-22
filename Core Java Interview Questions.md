@@ -65,3 +65,9 @@
          exit(1) - Terminates the program because of some error encoutered in the program.
 ---
 
+#### 14: What is difference b/w ``` System.in  ``` and ``` System.err ```?
+      A: Both of them represt the monitor by default, Hence can be used to send data or result to the monitor
+         System.out - displays normal messages or results 
+         System.err - displays error messages.
+---
+
