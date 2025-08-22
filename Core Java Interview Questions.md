@@ -48,3 +48,8 @@
 #### 10: What is a collection?
       A: Collections represents a group of elements. Ex: Arrarys and java.util Classes ( Stack , LinkedList , Vector etc ) 
 ---
+
+#### 11: Why Goto Statements are not available in Java?
+      A: goto statements leads to confusion for programmer. Especially in large programs if several goto programs are there programmer would be perplexed while understanding the flow from where to where          control is jumping
+---
+
