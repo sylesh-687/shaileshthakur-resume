@@ -75,3 +75,7 @@
       A: Arrays are created on Dynamic memory by JVM. There is no question of static memory in java. Every thing is created in Dynamic memory only
 ---
 
+#### 16: Can u call ```mani()``` method of the class from another class?
+      A: Yes, we can call the main() method from another class
+---
+
