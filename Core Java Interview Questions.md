@@ -79,3 +79,10 @@
       A: Yes, we can call the main() method from another class
 ---
 
+#### 17: is ```String``` a class or datatype?
+      A: String is a class from java.lang package. But in java all classes are also considered as a userdefined data type so String can be take as a data type as well.
+---
+
+#### 18: What is object reference?
+      A: Object reference is unique hexadecimal number representing the memory address of the object. it is useful to access the members of the objects
+---
