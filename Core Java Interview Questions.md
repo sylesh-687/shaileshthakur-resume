@@ -90,3 +90,7 @@
 #### 19: What is the difference b/w == and equals() while comparing strings ? which one is relaible?
       A: == compares the references of the string objects not the actual contents. equals() methods compares the cotent. equals() methods should be used while comparing strings.
 ---
+
+#### 20: What is string constant pool?
+      A: Separate block of memory allocated where string objects are held by JVM. If a string object is created directly by using assignment operator then it resides in String            constant pool.
+---
