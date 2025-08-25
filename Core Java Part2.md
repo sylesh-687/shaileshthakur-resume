@@ -16,3 +16,12 @@
 #### Q23: What is the difference b/w StringBuffer and StringBuilder classes?
      A: StringBuffer is Synchronized ( reliable result )  and StringBuilder( Improved time ) is not. 
 ---
+
+#### Q24: What is Object Oriented Approach?
+     A: Method is which Computer system is designed using Classes and Objects.
+---
+
+#### Q25: Difference between Object Oriented programming Languages and Object based programming Languages?
+     A: Object Oriented programming languages strictly follow OOps Concepts . Smalltalk, C++, Java are examples. 
+        Object Based programming languages follow all features except inheritance. JavaScript, VBScript.
+---
