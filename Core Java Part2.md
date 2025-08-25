@@ -25,3 +25,7 @@
      A: Object Oriented programming languages strictly follow OOps Concepts . Smalltalk, C++, Java are examples. 
         Object Based programming languages follow all features except inheritance. JavaScript, VBScript.
 ---
+
+#### Q26: What is hashcode?
+     A: hashcode is unique identification number allocated to the object by JVM. This hashcode number is also called reference             number which is created based on the location of the object in the memory and its unique for all the objects except for            strings . 
+---
