@@ -7,3 +7,8 @@
 
         In Second statement new operator is used to create string object. in this case JVM will always create new object
 ---
+
+#### Q22: What is the difference b/w String and StringBuffer classes?
+     A: String class objects are immutable, hence their content cannot be modified. StringBuffer classe objects are mutable, so they can be modified
+        Moreover the methods that directly manipulate data of the object are not present in String class. Such Methods are available in StringBuffer class.
+---
