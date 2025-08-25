@@ -28,4 +28,5 @@
 
 #### Q26: What is hashcode?
      A: hashcode is unique identification number allocated to the object by JVM. This hashcode number is also called reference             number which is created based on the location of the object in the memory and its unique for all the objects except for            strings . 
+        Hashcode Internally represents heap memory where instance and variables are stored.
 ---
