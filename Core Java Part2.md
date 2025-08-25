@@ -12,3 +12,7 @@
      A: String class objects are immutable, hence their content cannot be modified. StringBuffer classe objects are mutable, so they can be modified
         Moreover the methods that directly manipulate data of the object are not present in String class. Such Methods are available in StringBuffer class.
 ---
+
+#### Q23: What is the difference b/w StringBuffer and StringBuilder classes?
+     A: StringBuffer is Synchronized ( reliable result )  and StringBuilder( Improved time ) is not. 
+---
