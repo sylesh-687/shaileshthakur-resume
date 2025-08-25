@@ -30,3 +30,19 @@
      A: hashcode is unique identification number allocated to the object by JVM. This hashcode number is also called reference             number which is created based on the location of the object in the memory and its unique for all the objects except for            strings . 
         Hashcode Internally represents heap memory where instance and variables are stored.
 ---
+
+#### Q27: What are factory Methods?
+     A: The factory method is a method that creates and returns a object to the class which it belongs. A single factory method replaces several
+        constructors in the class by accepting different options from the user, while creating the object.
+---
+#### Q28: In how many ways can you create object in java?
+     A: There are 4 Ways 
+        - using new operator
+             Person P=new Person();
+        - Using factory Methods
+             NumberFormat obj= NumberFormat.getNumberInstance();
+        - using newInstance() method
+             Class c = Class.forName("Employee");
+             Employee obj = (Employee)c.newInstance();
+        - By Cloning already available object.
+---
