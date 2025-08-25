@@ -86,3 +86,7 @@
 #### 18: What is object reference?
       A: Object reference is unique hexadecimal number representing the memory address of the object. it is useful to access the members of the objects
 ---
+
+#### 19: What is the difference b/w == and equals() while comparing strings ? which one is relaible?
+      A: == compares the references of the string objects not the actual contents. equals() methods compares the cotent. equals() methods should be used while comparing strings.
+---
