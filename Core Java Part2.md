@@ -51,3 +51,7 @@
 #### Q29: What is Object Graph?
      A: Object graph is a graph showing relationships between different objects in memory.
 ---
+
+#### Q30: What is anonymous inner class?
+     A: It is an inner class whose name is not written in the outer class. For which only only one object is created.
+---
