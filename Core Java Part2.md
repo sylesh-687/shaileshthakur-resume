@@ -35,6 +35,7 @@
      A: The factory method is a method that creates and returns a object to the class which it belongs. A single factory method replaces several
         constructors in the class by accepting different options from the user, while creating the object.
 ---
+
 #### Q28: In how many ways can you create object in java?
      A: There are 4 Ways 
         - using new operator
@@ -45,4 +46,8 @@
              Class c = Class.forName("Employee");
              Employee obj = (Employee)c.newInstance();
         - By Cloning already available object.
+---
+
+#### Q29: What is Object Graph?
+     A: Object graph is a graph showing relationships between different objects in memory.
 ---
