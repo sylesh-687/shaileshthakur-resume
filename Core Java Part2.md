@@ -55,3 +55,7 @@
 #### Q30: What is anonymous inner class?
      A: It is an inner class whose name is not written in the outer class. For which only only one object is created.
 ---
+
+#### Q31: What is inheritance?
+     A: Deriving new classes from existing classes such that the new classes acquire all the features of existing classes is called inheritance.
+---
