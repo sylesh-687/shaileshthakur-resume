@@ -59,3 +59,16 @@
 #### Q31: What is inheritance?
      A: Deriving new classes from existing classes such that the new classes acquire all the features of existing classes is called inheritance.
 ---
+
+#### Q32: Why multiple inheritance is not available in java?
+     A: It leads to confusion for java program
+        The programmer can acheieve multiple inheritance using interfaces.
+        The programmer can achieve multiple inheritance by using multiple single inheritance.
+---
+
+#### Q33: How many types of inheritance are there?
+     A: There are two types of inheritance. Java supports onlysingle inheritance.
+---
+
+#### Q36: What is coercion?
+     A: Coercion is the automatic conersion between data types done by compiler
