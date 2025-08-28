@@ -72,3 +72,9 @@
 
 #### Q36: What is coercion?
      A: Coercion is the automatic conersion between data types done by compiler
+
+---
+
+#### Q37: What is conversion?
+     A: Conversion is the explicit change in data type specified by cast operator 
+---
