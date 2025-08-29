@@ -86,3 +86,8 @@
 #### Q39: What is Method Overloading?
      A:   Writing two or more methods in the same class in such a way that each method has a same name but with different method signatures - is called             method overloading
 ---
+
+#### Q40: What is Method Overriding?
+     A:   Writing two or more methods in the super class and subclass such that the methods have same name and same signature. - called method overloading
+     
+---
