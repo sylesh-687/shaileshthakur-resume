@@ -13,3 +13,30 @@
             - Method Overriding is a code replacement
             
 ---
+
+#### Q42: Can you override Private methods?
+    A: No, Overriding is only possible to the methods and variables available ot subclass, Private methods are not available to subclass.
+            
+---
+
+#### Q43: Can we take Private methods and Final Methods Same?
+    A: Yes, Java Compiler assigns the value for private methods at the time of compilation. Private methods cannot be modified at runtime.
+       This is the same case with Final methods Neither Private methods or Final methods can be overriden.
+---
+
+#### Q44: What is final?
+    A: Final Keyword is used in two ways:
+            1. It is used to declare constants
+            2. It is used to prevent inheritance
+---
+
+#### Q45: What is the difference b/w Static polymorphism and Dynamic polymorphism?
+    A: Dynamic polymorphism is a polymorphism exhibited at runtime, Here compiler doesnot undestands which methods to call at compile time
+       only JVM decidies based on the reference type.
+       Methods overloading and Method overriding using instance methods are examples
+
+       Static polymorphism is polymorphism exhibited at compile time, Java compiler knows which method to call.
+       Method overloading and Method overriding using static methods
+       
+---
+
