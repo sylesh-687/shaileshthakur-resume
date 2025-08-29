@@ -78,3 +78,7 @@
 #### Q37: What is conversion?
      A: Conversion is the explicit change in data type specified by cast operator 
 ---
+
+#### Q38: What is Method Signature?
+     A: Method Signature represonts the method name alogn with method parameters.
+---
