@@ -40,3 +40,27 @@
        
 ---
 
+#### Q46: What is the difference b/w primitive datatype and advanced data type?
+    A: Primitive datatypes represent single value. Advanced datatype represent multiple values. Also methods are not available to primitive data types.
+       In case of advanced data types several methods are available for several operations.
+       
+---
+
+#### Q47: What is implicit casting?
+    A: Automatic casting done by java compiler internally is called implicit casting. Implicit casting is done to convert lower data type to higher           data type.
+       
+---
+
+#### Q48: What is explicit casting?
+    A: Casting done by programmer using casting operator is called explicit casting. This is compulsory while converting higher data type to lower data          type
+       
+---
+
+#### Q49: What is generalization and specialization?
+    A: Generalization is the process where subclass is promoted to super class and hence becomes more general. Generalizations needs widening or 
+       up-casting.
+
+       Specialiazation is a phenomenon where super class is narrowed down to subclass. This needs to down-casting.
+       
+---
+
