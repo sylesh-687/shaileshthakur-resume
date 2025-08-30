@@ -109,7 +109,11 @@
 ---
 
 #### Q59:Why interface methods are public and abstract by default?
-    A: An interface methods are public because they have to be available to third party vendors to provide implementation. they are abstract because their implementation is left to third party        vendors
+    A: An interface methods are public because they have to be available to third party vendors to provide implementation. they are abstract because     their implementation is left to third party vendors
+---
+
+#### Q60:Can you implment interface from anotther?
+    A: No, we can't, implementing an interface means writing body for the methods. this cannot be done again interface,Since all the methods in interface are abastract methods
 ---
 
 
