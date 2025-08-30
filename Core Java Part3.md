@@ -96,3 +96,11 @@
     A: A class with 0 or more abstract method is called methods. Abstract class cannot instantiate Object
 ---
 
+#### Q56: How can you force your progammer to implement only the features of your class?
+    A: By writing an abstract class or interface.
+---
+
+#### Q57: Can you declare a class as abstract and final also?
+    A: No Abstract class needs to be sub classed and needs inheritance. Final prevents inheritance. So, both are quite contradictory and cannot be used for the same class.
+---
+
