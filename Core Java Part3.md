@@ -108,3 +108,8 @@
     A: An interface is a specification of method prototypes. All methods of the interface are public and abstract.
 ---
 
+#### Q59:Why interface methods are public and abstract by default?
+    A: An interface methods are public because they have to be available to third party vendors to provide implementation. they are abstract because their implementation is left to third party        vendors
+---
+
+
