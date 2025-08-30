@@ -64,3 +64,8 @@
        
 ---
 
+#### Q50: What is widening and narrowing?
+    A: Converting lower data type to higher data type is called widening and converting higher data type to lower is called narrowing.
+       Widening is a safe operation. Narrowing is unsafe hence programmer should explictly use cast operator       
+---
+
