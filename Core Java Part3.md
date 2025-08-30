@@ -72,3 +72,7 @@
 #### Q50: What is the superclass of all the classes including your class to?
     A: Object Class  
 ---
+
+#### Q51: Which method is used in cloning?
+    A: clone() method of Object Class  
+---
