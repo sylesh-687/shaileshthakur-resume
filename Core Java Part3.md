@@ -69,3 +69,6 @@
        Widening is a safe operation. Narrowing is unsafe hence programmer should explictly use cast operator       
 ---
 
+#### Q50: What is the superclass of all the classes including your class to?
+    A: Object Class  
+---
