@@ -88,3 +88,11 @@
        Serializable interface indicates that a particular object is serializable.
 ---
 
+#### Q54: What is abstract method?
+    A: A method without body is called abstract method. An abstract method is written when the same method has to perfom different operations depending on the object which is calling it.
+---
+
+#### Q55: What is abstract class?
+    A: A class with 0 or more abstract method is called methods. Abstract class cannot instantiate Object
+---
+
