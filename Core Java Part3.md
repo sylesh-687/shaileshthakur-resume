@@ -116,4 +116,8 @@
     A: No, we can't, implementing an interface means writing body for the methods. this cannot be done again interface,Since all the methods in interface are abastract methods
 ---
 
+#### Q61:Can you write a class within interface ?
+    A: Yes it is possible
+---
+
 
