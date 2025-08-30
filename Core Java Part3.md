@@ -104,3 +104,7 @@
     A: No Abstract class needs to be sub classed and needs inheritance. Final prevents inheritance. So, both are quite contradictory and cannot be used for the same class.
 ---
 
+#### Q58: What is an Interface?
+    A: An interface is a specification of method prototypes. All methods of the interface are public and abstract.
+---
+
