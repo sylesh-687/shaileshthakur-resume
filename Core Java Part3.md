@@ -76,3 +76,15 @@
 #### Q51: Which method is used in cloning?
     A: clone() method of Object Class  
 ---
+
+#### Q52: Can you write an interface without any method?
+    A: Yes
+---
+
+#### Q53: What do you call an interface without members?
+    A: An Interface without any member is called Marking Interface or Tagging interface. It marks the class object for Special purpose.
+       For Eg: Cloneable from java.lang and Serializable from java.io package are two marking interface.
+       Cloneable interface indicates that a particular object is cloneable.
+       Serializable interface indicates that a particular object is serializable.
+---
+
