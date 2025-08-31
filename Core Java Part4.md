@@ -17,3 +17,8 @@
 | Abstract class contains instance vars as well | Interface do not contain instar vars it has only abstract methods |
 | Abstract class is created using abstract keyword | Interface is create using interface keyword |
 ---
+
+#### Q64:How can u call Garbage Collector?
+    A: We can call Garbage collector of JVM to delete any unused memory and unreferenced memory from the memory using gc() method.
+       gc() method appears in both Runtime and System class of java.lang package.
+ ---
