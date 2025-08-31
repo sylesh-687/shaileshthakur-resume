@@ -9,6 +9,7 @@
 ---
 
 #### Q63:Abstract class vs Interface?
+
 | Abstract class  | Interface  |
 | ------------- | ------------- |
 | Abstract class are written when there is some common features shared by all objects  | Interfaces are written when all the features are to be iplemented seperately/differently.  |
@@ -16,4 +17,3 @@
 | Abstract class contains instance vars as well | Interface do not contain instar vars it has only abstract methods |
 | Abstract class is created using abstract keyword | Interface is create using interface keyword |
 ---
-    A:     
