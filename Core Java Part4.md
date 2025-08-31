@@ -22,7 +22,20 @@
     A: We can call Garbage collector of JVM to delete any unused memory and unreferenced memory from the memory using gc() method.
        gc() method appears in both Runtime and System class of java.lang package.
 ---
+
 #### Q65:What are checked exceptions?
     A: The exceptions that are checked at compile time by the compiler are called checked exception. The exceptions that are checked by JVM are called         unchecked exceptions
+---
+
+#### Q66:What are Throwable?
+    A: Throwable is a class that represents all the errors and exceptions which may occur in java.
+---
+
+#### Q67:Which is the super class for all exceptions?
+    A: Exception is the super class of all exceptions in java.
+---
+
+#### Q68:Which is the difference an exception and error?
+    A: An exception is an error which can be handled. It means when exception happens, the programmer can do something to avoid any harm. But an error is an error which cannot be handled. It            happens and the programmer can do anything.
 ---
  
