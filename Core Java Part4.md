@@ -36,10 +36,17 @@
 ---
 
 #### Q68:Which is the difference an exception and error?
-    A: An exception is an error which can be handled. It means when exception happens, the programmer can do something to avoid any harm. But an error is an error which cannot be handled. It            happens and the programmer can do anything.
+    A: An exception is an error which can be handled. It means when exception happens, the programmer can do something to avoid any harm. But an error is an error which cannot be handled. It happens and the programmer can do anything.
 ---
 
 #### Q69:Which is the difference an throws  and throw?
     A: throws clause is used when programmer doesnot want to handle the exception and throw it out of the method. throw clause is used when the programmer wants to throw and exception explicitly and        wants to handle it using catch block
 ---
+
+#### Q70:What happens if main() is written without String args []?
+    A: Runtime Error ( it will compile )
+---
  
+#### Q71:What happens if main() is written without String args []?
+    A: Runtime Error ( it will compile )
+---
