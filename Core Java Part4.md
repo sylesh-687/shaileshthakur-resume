@@ -66,3 +66,7 @@
 #### Q75:Can you store primitive data type in collection objects?
     A: No collections objects is only for Objects.
 ---
+ 
+#### Q76: What is the difference b/w Iterator and ListIterator?
+    A: Both are useful to retrieve elements from collection. Iterator can retrieve elements only in forward direction.But ListIterator can list the             elements in both the direction
+---
