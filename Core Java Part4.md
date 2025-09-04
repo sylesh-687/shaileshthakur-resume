@@ -50,3 +50,15 @@
 #### Q71:What happens if main() is written without String args []?
     A: Runtime Error ( it will compile )
 ---
+ 
+#### Q72:What is collection framework?
+    A: Collection framework is a class library to handle group of objects.collection frame work is implemented in java.util. Collection objects doesnot          store physical copies of other objects but references.
+---
+ 
+#### Q73:Does collection object store copies of the objects?
+    A: A collection object stores the references of other objects.
+---
+ 
+#### Q74:Does collection object store copies of the objects?
+    A: A collection object stores the references of other objects.
+---
