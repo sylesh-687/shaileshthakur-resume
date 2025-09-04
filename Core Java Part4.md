@@ -62,3 +62,7 @@
 #### Q74:Does collection object store copies of the objects?
     A: A collection object stores the references of other objects.
 ---
+ 
+#### Q75:Can you store primitive data type in collection objects?
+    A: No collections objects is only for Objects.
+---
