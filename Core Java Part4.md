@@ -70,3 +70,10 @@
 #### Q76: What is the difference b/w Iterator and ListIterator?
     A: Both are useful to retrieve elements from collection. Iterator can retrieve elements only in forward direction.But ListIterator can list the             elements in both the direction
 ---
+ 
+#### Q77: What is the difference b/w System.out and System.err?
+    A: Both are used to display message on the monitor. System.out displays normal message, System.error displays any error messags 
+       Eg: 
+       System.out.println("Hello")
+       System.err.println("Error")
+---
