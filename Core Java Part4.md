@@ -77,3 +77,8 @@
        System.out.println("Hello")
        System.err.println("Error")
 ---
+
+ 
+#### Q78: What is the Advantage of Stream Concept?
+    A: Streams are useful to move data from one place to another . This mechanism can be used to take data from input device and send it to output device.
+---
