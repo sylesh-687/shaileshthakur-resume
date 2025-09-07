@@ -77,8 +77,19 @@
        System.out.println("Hello")
        System.err.println("Error")
 ---
-
  
 #### Q78: What is the Advantage of Stream Concept?
     A: Streams are useful to move data from one place to another . This mechanism can be used to take data from input device and send it to output device.
 ---
+ 
+#### Q79: What is the default buffer size in any Bufferred Class?
+    A: 512bytes
+
+---
+ 
+#### Q80: What types of variables cannot be searialized?
+    A: Static and Transient variables cannot be serialized.
+       Once the objects are stored into a file, they can be later retrieved and used as and when needed this is called de-serialization.
+
+---
+
